@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Export-Package: org.opencastproject.manager.api;version="1.5.0.SNAPSHO
+ T",org.opencastproject.manager.api.bundles;uses:="javax.xml.bind.anno
+ tation";version="1.5.0.SNAPSHOT",org.opencastproject.manager.api.plug
+ ins;uses:="javax.xml.bind.annotation";version="1.5.0.SNAPSHOT",org.op
+ encastproject.manager.api.workflow;uses:="javax.xml.bind.annotation";
+ version="1.5.0.SNAPSHOT"
+Built-By: lonet
+Tool: Bnd-0.0.357
+Bundle-Category: opencastproject
+Bundle-Name: matterhorn-manager-api
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: The Opencast Project
+Build-Jdk: 1.6.0_27
+Bundle-Version: 1.5.0.SNAPSHOT
+Bnd-LastModified: 1388759958545
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.osedu.org/licenses/ECL-2.0/ecl2.txt
+Bundle-Description: The Opencast Project's Matterhorn software is a me
+ dia capture, processing, and distribution system
+Import-Package: javax.xml.bind.annotation,org.opencastproject.manager.
+ api;version="1.5",org.opencastproject.manager.api.bundles;version="1.
+ 5",org.opencastproject.manager.api.plugins;version="1.5",org.opencast
+ project.manager.api.workflow;version="1.5"
+Bundle-SymbolicName: matterhorn-manager-api
+Bundle-DocURL: http://opencastproject.org/
+

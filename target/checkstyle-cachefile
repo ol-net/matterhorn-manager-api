@@ -1,0 +1,10 @@
+#Fri Jan 03 15:39:16 CET 2014
+/opt/matterhorn/MH-9188/modules/matterhorn-manager-api/src/main/java/org/opencastproject/manager/api/bundles/BundleArtifact.java=1388759867000
+/opt/matterhorn/MH-9188/modules/matterhorn-manager-api/src/main/java/org/opencastproject/manager/api/plugins/PluginInstallerService.java=1388759769000
+/opt/matterhorn/MH-9188/modules/matterhorn-manager-api/src/main/java/org/opencastproject/manager/api/bundles/BundleInstallerService.java=1388759856000
+/opt/matterhorn/MH-9188/modules/matterhorn-manager-api/src/main/java/org/opencastproject/manager/api/workflow/WorkflowInstallerService.java=1388759752000
+/opt/matterhorn/MH-9188/modules/matterhorn-manager-api/src/main/java/org/opencastproject/manager/api/bundles/SecurityBundleClass.java=1388759843000
+/opt/matterhorn/MH-9188/modules/matterhorn-manager-api/src/main/java/org/opencastproject/manager/api/plugins/PluginArtifact.java=1388759777000
+/opt/matterhorn/MH-9188/modules/matterhorn-manager-api/src/main/java/org/opencastproject/manager/api/PluginManagerConstants.java=1388759741000
+/opt/matterhorn/MH-9188/modules/matterhorn-manager-api/src/main/java/org/opencastproject/manager/api/workflow/WorkflowArtifact.java=1388759762000
+configuration*?=E8160C0D57B356D1988CDA0CE9287C3672A7BA79
